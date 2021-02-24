@@ -1,0 +1,25 @@
+item {
+    name: "boat",
+    id: 1,
+    display_name: "boat"
+}
+item {
+    name: "car",
+    id: 2,
+    display_name: "car"
+}
+item {
+    name: "dock",
+    id: 3,
+    display_name: "dock"
+}
+item {
+    name: "jetski",
+    id: 4,
+    display_name: "jetski"
+}
+item {
+    name: "lift",
+    id: 5,
+    display_name: "lift"
+}
